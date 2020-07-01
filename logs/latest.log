@@ -1,0 +1,153 @@
+[22:18:34] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[22:18:35] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[22:18:35] [Worker-Main-13/INFO]: Loaded 7 recipes
+[22:18:37] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[22:18:37] [Server thread/INFO]: Loading properties
+[22:18:37] [Server thread/INFO]: Default game type: CREATIVE
+[22:18:37] [Server thread/INFO]: Generating keypair
+[22:18:37] [Server thread/INFO]: Starting Minecraft server on 192.168.2.113:25565
+[22:18:37] [Server thread/INFO]: Using default channel type
+[22:18:38] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-7560f5f (MC: 1.16.1) (Implementing API version 1.16.1-R0.1-SNAPSHOT)
+[22:18:39] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[22:18:40] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@131bbc1e]
+[22:18:40] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.3;5407315
+[22:18:40] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[22:18:40] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[22:18:40] [Server thread/WARN]: 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and block property-related functions.
+**
+** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
+**********************************************
+
+[22:18:40] [Server thread/WARN]: [WorldEdit] ====================================================
+[22:18:40] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[22:18:40] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[22:18:40] [Server thread/WARN]: [WorldEdit]   
+[22:18:40] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[22:18:40] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[22:18:40] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[22:18:40] [Server thread/WARN]: [WorldEdit]   
+[22:18:40] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[22:18:40] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[22:18:40] [Server thread/WARN]: [WorldEdit]   
+[22:18:40] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[22:18:40] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[22:18:40] [Server thread/WARN]: [WorldEdit]   
+[22:18:40] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[22:18:40] [Server thread/WARN]: [WorldEdit] ====================================================
+[22:18:40] [Server thread/INFO]: Preparing level "Buns world"
+[22:18:41] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[22:18:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:18:42] [Server thread/INFO]: Preparing spawn area: 0%
+[22:18:42] [Server thread/INFO]: Preparing spawn area: 0%
+[22:18:42] [Server thread/INFO]: Preparing spawn area: 0%
+[22:18:42] [Server thread/INFO]: Preparing spawn area: 0%
+[22:18:45] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[22:18:45] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[22:18:45] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[22:18:45] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[22:18:45] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[22:18:45] [Server thread/INFO]: Preparing spawn area: 83%
+[22:18:46] [Worker-Main-8/INFO]: Preparing spawn area: 99%
+[22:18:46] [Server thread/INFO]: Time elapsed: 5101 ms
+[22:18:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:18:47] [Server thread/INFO]: Preparing spawn area: 0%
+[22:18:47] [Server thread/INFO]: Preparing spawn area: 0%
+[22:18:47] [Server thread/INFO]: Preparing spawn area: 0%
+[22:18:47] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[22:18:48] [Worker-Main-12/INFO]: Preparing spawn area: 83%
+[22:18:48] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[22:18:49] [Worker-Main-13/INFO]: Preparing spawn area: 86%
+[22:18:49] [Worker-Main-13/INFO]: Preparing spawn area: 92%
+[22:18:50] [Server thread/INFO]: Time elapsed: 3743 ms
+[22:18:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:18:50] [Server thread/INFO]: Preparing spawn area: 0%
+[22:18:50] [Worker-Main-11/INFO]: Preparing spawn area: 97%
+[22:18:50] [Server thread/INFO]: Time elapsed: 518 ms
+[22:18:50] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.3;5407315
+[22:18:50] [Server thread/INFO]: [WorldGuard] (Buns world) TNT ignition is PERMITTED.
+[22:18:50] [Server thread/INFO]: [WorldGuard] (Buns world) Lighters are PERMITTED.
+[22:18:50] [Server thread/INFO]: [WorldGuard] (Buns world) Lava fire is PERMITTED.
+[22:18:50] [Server thread/INFO]: [WorldGuard] (Buns world) Fire spread is UNRESTRICTED.
+[22:18:50] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Buns world'
+[22:18:50] [Server thread/INFO]: [WorldGuard] (Buns world_nether) TNT ignition is PERMITTED.
+[22:18:50] [Server thread/INFO]: [WorldGuard] (Buns world_nether) Lighters are PERMITTED.
+[22:18:50] [Server thread/INFO]: [WorldGuard] (Buns world_nether) Lava fire is PERMITTED.
+[22:18:50] [Server thread/INFO]: [WorldGuard] (Buns world_nether) Fire spread is UNRESTRICTED.
+[22:18:50] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Buns world_nether'
+[22:18:50] [Server thread/INFO]: [WorldGuard] (Buns world_the_end) TNT ignition is PERMITTED.
+[22:18:50] [Server thread/INFO]: [WorldGuard] (Buns world_the_end) Lighters are PERMITTED.
+[22:18:50] [Server thread/INFO]: [WorldGuard] (Buns world_the_end) Lava fire is PERMITTED.
+[22:18:50] [Server thread/INFO]: [WorldGuard] (Buns world_the_end) Fire spread is UNRESTRICTED.
+[22:18:50] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Buns world_the_end'
+[22:18:50] [Server thread/INFO]: [WorldGuard] Loading region data...
+[22:18:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:18:51] [Server thread/INFO]: Done (10.121s)! For help, type "help"
+[22:20:42] [User Authenticator #1/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[22:20:42] [Server thread/INFO]: Kid_Lynk[/192.168.2.113:58065] logged in with entity id 458 at ([Buns world]389.13631477362856, 63.0, 53.13533700610179)
+[22:20:53] [Server thread/INFO]: Kid_Lynk issued server command: //naturalize
+[22:21:11] [Server thread/INFO]: Kid_Lynk issued server command: //naturalize
+[22:21:42] [Server thread/INFO]: Kid_Lynk issued server command: //naturalize
+[22:21:54] [Server thread/INFO]: Kid_Lynk issued server command: //naturalize
+[22:22:17] [Server thread/INFO]: Kid_Lynk issued server command: //forest darkoak 5
+[22:22:24] [Server thread/INFO]: Kid_Lynk issued server command: //forest darkoak 25
+[22:22:57] [Server thread/INFO]: Kid_Lynk issued server command: //forest oak 4
+[22:23:00] [Server thread/INFO]: Kid_Lynk issued server command: //forest oak 100
+[22:23:04] [Server thread/INFO]: Kid_Lynk issued server command: //forest oak 72
+[22:23:06] [Server thread/INFO]: Kid_Lynk issued server command: //forest oak 72
+[22:23:09] [Server thread/INFO]: Kid_Lynk issued server command: //forest oak 4
+[22:23:26] [Server thread/INFO]: Kid_Lynk issued server command: //forest jungle 30
+[22:24:20] [Server thread/INFO]: Kid_Lynk issued server command: /jumpto
+[22:24:20] [Server thread/WARN]: Kid_Lynk moved too quickly! 81.15351727961814,12.441094465310314,21.403969760949963
+[22:24:20] [Server thread/WARN]: Kid_Lynk moved too quickly! 81.15351727961814,12.441094465310314,21.403969760949963
+[22:24:36] [Server thread/INFO]: Kid_Lynk issued server command: //wand -n
+[22:25:49] [Server thread/WARN]: Kid_Lynk moved too quickly! -4.395084954240474,-12.112930259624648,-66.20061947401342
+[22:26:37] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[22:26:37] [Server thread/INFO]: Kid_Lynk left the game
+[22:32:31] [User Authenticator #2/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[22:32:31] [Server thread/INFO]: Kid_Lynk[/192.168.2.113:58503] logged in with entity id 2519 at ([Buns world]536.4469767082327, 81.53292827534491, -342.2846681915994)
+[22:33:15] [Server thread/INFO]: Kid_Lynk issued server command: //brush cylinder stone 4
+[22:33:28] [Server thread/INFO]: Kid_Lynk issued server command: //brush cylinder stone 4 5
+[22:33:37] [Server thread/INFO]: Kid_Lynk issued server command: //brush cylinder lava 4 5
+[22:37:14] [Server thread/INFO]: Kid_Lynk issued server command: //set glowstone
+[22:37:27] [Server thread/INFO]: Kid_Lynk issued server command: //set minecraft:nether_gold_ore
+[22:37:54] [Server thread/INFO]: Kid_Lynk issued server command: //replace sponge, glass
+[22:38:07] [Server thread/INFO]: Kid_Lynk issued server command: //replace lava minecraft:water
+[22:39:05] [Server thread/INFO]: Kid_Lynk issued server command: //pos1
+[22:39:18] [Server thread/INFO]: Kid_Lynk issued server command: /pos 2
+[22:39:24] [Server thread/INFO]: Kid_Lynk issued server command: //pos2
+[22:39:26] [Server thread/INFO]: Kid_Lynk issued server command: //copy
+[22:39:32] [Server thread/INFO]: Kid_Lynk issued server command: //paste
+[22:39:47] [Server thread/INFO]: Kid_Lynk issued server command: //paste
+[22:39:51] [Server thread/INFO]: Kid_Lynk issued server command: //paste
+[22:40:20] [Server thread/INFO]: Kid_Lynk issued server command: //paste -a
+[22:40:30] [Server thread/INFO]: Kid_Lynk issued server command: //paste -red_wool
+[22:40:46] [Server thread/INFO]: Kid_Lynk issued server command: //paste -m red_wool
+[22:41:06] [Server thread/INFO]: Kid_Lynk issued server command: //paste -m -red_wool
+[22:41:16] [Server thread/INFO]: Kid_Lynk issued server command: //paste -a
+[22:41:37] [Server thread/INFO]: Kid_Lynk issued server command: //move 5
+[22:41:43] [Server thread/INFO]: Kid_Lynk issued server command: //move 4
+[22:42:08] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[22:42:08] [Server thread/INFO]: Kid_Lynk left the game
+[22:44:58] [Server thread/INFO]: Stopping the server
+[22:44:58] [Server thread/INFO]: Stopping server
+[22:44:58] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.3;5407315
+[22:44:58] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[22:44:58] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
+[22:44:58] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[22:44:58] [Server thread/INFO]: Saving players
+[22:44:58] [Server thread/INFO]: Saving worlds
+[22:44:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Buns world]'/minecraft:overworld
+[22:44:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (Buns world): All chunks are saved
+[22:44:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Buns world_nether]'/minecraft:the_nether
+[22:44:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:44:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Buns world_the_end]'/minecraft:the_end
+[22:44:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:44:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (Buns world): All chunks are saved
+[22:44:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:44:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
