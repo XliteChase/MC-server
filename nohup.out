@@ -1,0 +1,1016 @@
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x0000000700000000, 2147483648, 0) failed; error='Not enough space' (errno=12)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 2147483648 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /root/minecraft/MC-server/hs_err_pid23553.log
+*** Error, this build is outdated ***
+*** Please download a new build as per instructions from https://www.spigotmc.org/go/outdated-spigot ***
+*** Server will start in 20 seconds ***
+Loading libraries, please wait...
+[00:13:29] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[00:13:30] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[00:13:31] [Worker-Main-2/INFO]: Loaded 7 recipes
+[00:13:29] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[00:13:30] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[00:13:31] [Worker-Main-2/INFO]: Loaded 7 recipes
+[00:13:32] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[00:13:32] [Server thread/INFO]: Loading properties
+[00:13:32] [Server thread/INFO]: Default game type: CREATIVE
+[00:13:32] [Server thread/INFO]: Generating keypair
+[00:13:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:13:33] [Server thread/INFO]: Using epoll channel type
+[00:13:33] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-7560f5f (MC: 1.16.1) (Implementing API version 1.16.1-R0.1-SNAPSHOT)
+[00:13:34] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[00:13:35] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@17cdb45a]
+[00:13:35] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.3;5407315
+[00:13:35] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[00:13:35] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[00:13:35] [Server thread/WARN]: 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and block property-related functions.
+**
+** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
+**********************************************
+
+[00:13:36] [Server thread/WARN]: [WorldEdit] ====================================================
+[00:13:36] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[00:13:36] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[00:13:36] [Server thread/WARN]: [WorldEdit]   
+[00:13:36] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[00:13:36] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[00:13:36] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[00:13:36] [Server thread/WARN]: [WorldEdit]   
+[00:13:36] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[00:13:36] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[00:13:36] [Server thread/WARN]: [WorldEdit]   
+[00:13:36] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[00:13:36] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[00:13:36] [Server thread/WARN]: [WorldEdit]   
+[00:13:36] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[00:13:36] [Server thread/WARN]: [WorldEdit] ====================================================
+[00:13:36] [Server thread/INFO]: Preparing level "Buns world"
+[00:13:36] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[00:13:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:13:38] [Server thread/INFO]: Preparing spawn area: 0%
+[00:13:38] [Server thread/INFO]: Preparing spawn area: 0%
+[00:13:38] [Server thread/INFO]: Preparing spawn area: 0%
+[00:13:38] [Server thread/INFO]: Preparing spawn area: 0%
+[00:13:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:13:39] [Server thread/INFO]: Preparing spawn area: 42%
+[00:13:39] [Server thread/INFO]: Time elapsed: 3071 ms
+[00:13:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:13:40] [Server thread/INFO]: Preparing spawn area: 0%
+[00:13:40] [Server thread/INFO]: Preparing spawn area: 0%
+[00:13:40] [Server thread/INFO]: Preparing spawn area: 0%
+[00:13:41] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:13:41] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:13:42] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:13:42] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:13:43] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:13:43] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:13:44] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:13:44] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:13:45] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:13:45] [Worker-Main-2/INFO]: Preparing spawn area: 86%
+[00:13:46] [Worker-Main-2/INFO]: Preparing spawn area: 90%
+[00:13:46] [Worker-Main-2/INFO]: Preparing spawn area: 93%
+[00:13:47] [Worker-Main-2/INFO]: Preparing spawn area: 95%
+[00:13:47] [Server thread/INFO]: Time elapsed: 7997 ms
+[00:13:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:13:47] [Server thread/INFO]: Preparing spawn area: 0%
+[00:13:48] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[00:13:48] [Worker-Main-2/INFO]: Preparing spawn area: 85%
+[00:13:49] [Worker-Main-2/INFO]: Preparing spawn area: 99%
+[00:13:49] [Server thread/INFO]: Time elapsed: 1536 ms
+[00:13:49] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.3;5407315
+[00:13:49] [Server thread/INFO]: [WorldGuard] (Buns world) TNT ignition is PERMITTED.
+[00:13:49] [Server thread/INFO]: [WorldGuard] (Buns world) Lighters are PERMITTED.
+[00:13:49] [Server thread/INFO]: [WorldGuard] (Buns world) Lava fire is PERMITTED.
+[00:13:49] [Server thread/INFO]: [WorldGuard] (Buns world) Fire spread is UNRESTRICTED.
+[00:13:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Buns world'
+[00:13:49] [Server thread/INFO]: [WorldGuard] (Buns world_nether) TNT ignition is PERMITTED.
+[00:13:49] [Server thread/INFO]: [WorldGuard] (Buns world_nether) Lighters are PERMITTED.
+[00:13:49] [Server thread/INFO]: [WorldGuard] (Buns world_nether) Lava fire is PERMITTED.
+[00:13:49] [Server thread/INFO]: [WorldGuard] (Buns world_nether) Fire spread is UNRESTRICTED.
+[00:13:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Buns world_nether'
+[00:13:49] [Server thread/INFO]: [WorldGuard] (Buns world_the_end) TNT ignition is PERMITTED.
+[00:13:49] [Server thread/INFO]: [WorldGuard] (Buns world_the_end) Lighters are PERMITTED.
+[00:13:49] [Server thread/INFO]: [WorldGuard] (Buns world_the_end) Lava fire is PERMITTED.
+[00:13:49] [Server thread/INFO]: [WorldGuard] (Buns world_the_end) Fire spread is UNRESTRICTED.
+[00:13:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Buns world_the_end'
+[00:13:49] [Server thread/INFO]: [WorldGuard] Loading region data...
+[00:13:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:13:50] [Server thread/INFO]: Done (13.882s)! For help, type "help"
+[00:13:52] [User Authenticator #1/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[00:13:52] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:63988] logged in with entity id 125 at ([Buns world]944.4853065492832, 87.67779226588554, 165.74875892569204)
+[00:16:16] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[00:16:16] [Server thread/INFO]: Kid_Lynk left the game
+[12:40:42] [User Authenticator #2/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[12:40:42] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:60121] logged in with entity id 754 at ([Buns world]985.5079100203324, 90.61293048303811, 201.85912107041355)
+[12:43:09] [Server thread/INFO]: Kid_Lynk issued server command: //pos1
+[12:43:41] [Server thread/INFO]: Kid_Lynk issued server command: //pos2
+[12:43:45] [Server thread/INFO]: Kid_Lynk issued server command: //fill air
+[12:46:12] [Server thread/INFO]: Kid_Lynk issued server command: //fill air 50 1
+[12:46:50] [Server thread/INFO]: Kid_Lynk issued server command: //set air
+[12:47:22] [Server thread/INFO]: Kid_Lynk issued server command: //brush sphere air 1
+[12:47:34] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[12:47:37] [Server thread/INFO]: Kid_Lynk issued server command: //brush sphere air 2
+[12:48:21] [Server thread/INFO]: Kid_Lynk issued server command: //naturalize
+[12:48:31] [Server thread/INFO]: Kid_Lynk issued server command: //naturalize
+[12:51:02] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[12:51:12] [Server thread/INFO]: Kid_Lynk issued server command: /undo
+[12:51:21] [Server thread/INFO]: Kid_Lynk issued server command: //gmask sand
+[12:51:30] [Server thread/INFO]: Kid_Lynk issued server command: //drain
+[12:51:38] [Server thread/INFO]: Kid_Lynk issued server command: //drain 50
+[12:51:44] [Server thread/INFO]: Kid_Lynk issued server command: //drain -w 10
+[12:52:02] [Server thread/INFO]: Kid_Lynk issued server command: //drain 10
+[12:52:06] [Server thread/INFO]: Kid_Lynk issued server command: //drain - 10
+[12:52:13] [Server thread/INFO]: Kid_Lynk issued server command: //drain 20
+[12:52:29] [Server thread/INFO]: Kid_Lynk issued server command: //gmask
+[12:54:46] [Server thread/INFO]: Kid_Lynk issued server command: //naturalize
+[12:55:14] [Server thread/INFO]: Kid_Lynk issued server command: //brush sphere grass_block
+[12:55:34] [Server thread/INFO]: Kid_Lynk issued server command: /mask minecraft:grass_block
+[12:55:50] [Server thread/INFO]: Kid_Lynk issued server command: /mask
+[12:55:53] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[12:56:02] [Server thread/INFO]: Kid_Lynk issued server command: //gmask grass_block
+[12:56:17] [Server thread/INFO]: Kid_Lynk issued server command: //gmask
+[12:56:57] [Server thread/INFO]: Kid_Lynk issued server command: //drain 10
+[12:57:53] [Server thread/INFO]: Kid_Lynk issued server command: //naturalize
+[12:58:35] [Server thread/INFO]: Kid_Lynk issued server command: //fill grass_block
+[12:58:45] [Server thread/INFO]: Kid_Lynk issued server command: //set grass_block
+[13:01:52] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[13:02:23] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[13:03:09] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[13:04:05] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[13:06:23] [Server thread/INFO]: Kid_Lynk issued server command: //brush sphere air 2
+[13:06:28] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[13:06:34] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[13:07:21] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[13:07:24] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[13:47:53] [Server thread/INFO]: Kid_Lynk has completed the challenge [Serious Dedication]
+[13:51:22] [Server thread/INFO]: Kid_Lynk issued server command: /weather clear
+[13:51:22] [Server thread/INFO]: [Kid_Lynk: Set the weather to clear]
+[13:51:49] [Server thread/INFO]: Kid_Lynk issued server command: /cycler
+[13:52:01] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[13:52:01] [Server thread/INFO]: Kid_Lynk left the game
+[13:59:39] [User Authenticator #3/INFO]: UUID of player LostLittleBun is 2de2b0a2-f873-4102-b522-fd7207381d49
+[13:59:39] [Server thread/INFO]: LostLittleBun[/35.138.203.6:50065] logged in with entity id 2130 at ([Buns world]934.5704139019632, 79.9765513210576, 167.22099185410102)
+[14:00:36] [Server thread/INFO]: LostLittleBun issued server command: /time set day
+[14:00:36] [Server thread/INFO]: [LostLittleBun: Set the time to 1000]
+[14:01:28] [Server thread/INFO]: LostLittleBun issued server command: /spawn
+[14:01:35] [Server thread/INFO]: LostLittleBun issued server command: /spawnpoint
+[14:01:35] [Server thread/INFO]: [LostLittleBun: Set spawn point to 934, 79, 167 in minecraft:overworld for LostLittleBun]
+[14:02:16] [Server thread/INFO]: LostLittleBun issued server command: /weather clear
+[14:02:16] [Server thread/INFO]: [LostLittleBun: Set the weather to clear]
+[14:04:40] [Server thread/INFO]: LostLittleBun issued server command: //brush sphere minecraft:air 4
+[14:04:56] [Server thread/INFO]: LostLittleBun issued server command: /undo
+[14:06:40] [Server thread/INFO]: LostLittleBun issued server command: //brush sphere minecraft:grass 4
+[14:07:07] [Server thread/INFO]: LostLittleBun issued server command: //brush sphere minecraft:dirt 4
+[14:07:15] [Server thread/INFO]: LostLittleBun issued server command: /undo
+[14:07:19] [Server thread/INFO]: LostLittleBun issued server command: /undo
+[14:12:10] [Server thread/INFO]: LostLittleBun issued server command: /weather clear
+[14:12:10] [Server thread/INFO]: [LostLittleBun: Set the weather to clear]
+[14:12:17] [Server thread/INFO]: LostLittleBun issued server command: /time set day
+[14:12:17] [Server thread/INFO]: [LostLittleBun: Set the time to 1000]
+[14:12:41] [User Authenticator #4/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[14:12:41] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:64360] logged in with entity id 2474 at ([Buns world]623.1028910388352, 62.9375, -20.52900268678153)
+[14:12:48] [Netty Epoll Server IO #1/INFO]: <Kid_Lynk> hewwoooo
+[14:12:56] [Netty Epoll Server IO #3/INFO]: <LostLittleBun> hewoo
+[14:13:14] [Netty Epoll Server IO #1/INFO]: <Kid_Lynk> 703 75 -12
+[14:13:19] [Server thread/INFO]: Kid_Lynk issued server command: /teleport 703 75 -12
+[14:13:19] [Server thread/INFO]: [Kid_Lynk: Teleported Kid_Lynk to 703.5, 75.0, -11.5]
+[14:13:24] [Server thread/INFO]: Kid_Lynk issued server command: /tp LostLittleBun Kid_Lynk
+[14:13:24] [Server thread/INFO]: [Kid_Lynk: Teleported LostLittleBun to Kid_Lynk]
+[14:13:34] [Netty Epoll Server IO #1/INFO]: <Kid_Lynk> FOX
+[14:13:36] [Netty Epoll Server IO #3/INFO]: <LostLittleBun> OWO
+[14:13:38] [Netty Epoll Server IO #1/INFO]: <Kid_Lynk> FOX FOX
+[14:14:09] [Netty Epoll Server IO #1/INFO]: <Kid_Lynk> he sleepy
+[14:14:27] [Netty Epoll Server IO #1/INFO]: <Kid_Lynk> D:
+[14:14:44] [Netty Epoll Server IO #3/INFO]: <LostLittleBun> thatr was amazing
+[14:15:03] [Netty Epoll Server IO #1/INFO]: <Kid_Lynk> he baby
+[14:15:41] [Netty Epoll Server IO #1/INFO]: <Kid_Lynk> disc?
+[14:15:48] [Netty Epoll Server IO #3/INFO]: <LostLittleBun> okie
+[14:17:17] [Server thread/INFO]: Kid_Lynk issued server command: /weather clear
+[14:17:17] [Server thread/INFO]: [Kid_Lynk: Set the weather to clear]
+[14:17:34] [Netty Epoll Server IO #1/INFO]: <Kid_Lynk> u die
+[14:21:06] [Server thread/INFO]: Kid_Lynk issued server command: //stack forward 30
+[14:21:18] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 30 forward
+[14:21:30] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:21:39] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 15 forward
+[14:21:44] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 15 forward
+[14:21:52] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 15 forward
+[14:23:28] [Server thread/INFO]: LostLittleBun issued server command: /weather clear
+[14:23:28] [Server thread/INFO]: [LostLittleBun: Set the weather to clear]
+[14:23:54] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 15 forward
+[14:24:00] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 15 forward
+[14:24:11] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 15 forward
+[14:24:28] [Server thread/INFO]: Kid_Lynk issued server command: /undo
+[14:24:38] [Server thread/INFO]: Kid_Lynk issued server command: //redo
+[14:26:09] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 15 forward
+[14:26:24] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 15 forward
+[14:26:56] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 15 forward
+[14:27:03] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:27:10] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 30 forward
+[14:28:34] [Server thread/INFO]: Kid_Lynk issued server command: /weather clear
+[14:28:34] [Server thread/INFO]: [Kid_Lynk: Set the weather to clear]
+[14:28:39] [Server thread/INFO]: Kid_Lynk issued server command: /time day
+[14:28:49] [Server thread/INFO]: LostLittleBun issued server command: /time set day
+[14:28:49] [Server thread/INFO]: [LostLittleBun: Set the time to 1000]
+[14:34:14] [Server thread/INFO]: LostLittleBun issued server command: /weather clear
+[14:34:14] [Server thread/INFO]: [LostLittleBun: Set the weather to clear]
+[14:37:46] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 3 up
+[14:37:55] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:38:54] [Server thread/INFO]: Kid_Lynk issued server command: /time set day
+[14:38:54] [Server thread/INFO]: [Kid_Lynk: Set the time to 1000]
+[14:41:57] [Server thread/INFO]: LostLittleBun issued server command: /weather clear
+[14:41:57] [Server thread/INFO]: [LostLittleBun: Set the weather to clear]
+[14:45:00] [Server thread/INFO]: LostLittleBun lost connection: Disconnected
+[14:45:00] [Server thread/INFO]: LostLittleBun left the game
+[14:48:15] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 49 forward
+[14:48:37] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 24 forward
+[14:48:46] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:48:50] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 24 forward
+[14:49:01] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 49 forward
+[14:49:04] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:49:07] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 49 forward
+[14:49:13] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 49 forward
+[14:49:27] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 24 forward
+[14:54:39] [Server thread/INFO]: Kid_Lynk issued server command: //pos2
+[14:54:44] [Server thread/INFO]: Kid_Lynk issued server command: //copy
+[14:54:52] [Server thread/INFO]: Kid_Lynk issued server command: //paste
+[14:55:01] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:55:11] [Server thread/INFO]: Kid_Lynk issued server command: //paste
+[14:55:17] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:55:20] [Server thread/INFO]: Kid_Lynk issued server command: //paste
+[14:55:24] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:55:26] [Server thread/INFO]: Kid_Lynk issued server command: //paste
+[14:55:29] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:55:34] [Server thread/INFO]: Kid_Lynk issued server command: //rotate 90
+[14:55:40] [Server thread/INFO]: Kid_Lynk issued server command: //paste
+[14:55:44] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:55:51] [Server thread/INFO]: Kid_Lynk issued server command: //rotate 90
+[14:55:52] [Server thread/INFO]: Kid_Lynk issued server command: //paste
+[14:55:59] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:56:00] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:56:05] [Server thread/INFO]: Kid_Lynk issued server command: //redo
+[14:56:22] [Server thread/INFO]: Kid_Lynk issued server command: //pos2
+[14:56:26] [Server thread/INFO]: Kid_Lynk issued server command: /copy
+[14:56:28] [Server thread/INFO]: Kid_Lynk issued server command: //copy
+[14:56:33] [Server thread/INFO]: Kid_Lynk issued server command: //paste
+[14:56:38] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:57:32] [Server thread/INFO]: Kid_Lynk issued server command: //flip
+[14:57:34] [Server thread/INFO]: Kid_Lynk issued server command: //paste
+[14:57:39] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:57:44] [Server thread/INFO]: Kid_Lynk issued server command: //paste
+[14:57:48] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:57:54] [Server thread/INFO]: Kid_Lynk issued server command: //paste
+[14:57:58] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:58:03] [Server thread/INFO]: Kid_Lynk issued server command: //paste
+[14:58:15] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:58:19] [Server thread/INFO]: Kid_Lynk issued server command: //paste
+[14:58:23] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:58:25] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:58:28] [Server thread/INFO]: Kid_Lynk issued server command: //redo
+[14:58:41] [Server thread/INFO]: Kid_Lynk issued server command: //paste
+[14:59:07] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:59:09] [Server thread/INFO]: Kid_Lynk issued server command: //paste
+[14:59:12] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:59:25] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[14:59:25] [Server thread/INFO]: Kid_Lynk left the game
+[01:23:40] [User Authenticator #5/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[01:23:40] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:57109] logged in with entity id 3264 at ([Buns world]738.0283759397191, 81.24313577178174, 12.387176473913614)
+[01:24:24] [Server thread/INFO]: Kid_Lynk lost connection: Timed out
+[01:24:24] [Server thread/INFO]: Kid_Lynk left the game
+[01:25:31] [User Authenticator #6/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[01:25:31] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:57259] logged in with entity id 3341 at ([Buns world]721.762013265574, 73.74313548392374, 3.4847428246660144)
+[01:26:04] [Server thread/INFO]: Kid_Lynk issued server command: //stack up 10
+[01:26:12] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 10 up
+[01:26:20] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[01:27:10] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 2 up -m spruce_leaves
+[01:49:50] [Server thread/INFO]: Kid_Lynk issued server command: //pos1
+[01:50:02] [Server thread/INFO]: Kid_Lynk issued server command: //pos2
+[01:50:06] [Server thread/INFO]: Kid_Lynk issued server command: //fill glass
+[01:50:18] [Server thread/INFO]: Kid_Lynk issued server command: //set glass
+[01:50:39] [Server thread/INFO]: Kid_Lynk issued server command: //set minecraft:obsidian
+[01:50:47] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[01:50:50] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[01:53:46] [Server thread/INFO]: Kid_Lynk issued server command: //copy
+[01:53:56] [Server thread/INFO]: Kid_Lynk issued server command: //paste
+[01:54:02] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[01:54:30] [Server thread/INFO]: Kid_Lynk issued server command: //paste
+[01:54:53] [Server thread/INFO]: Kid_Lynk issued server command: /undo
+[01:55:15] [Server thread/INFO]: Kid_Lynk issued server command: //paste
+[01:55:31] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[01:56:15] [Netty Epoll Server IO #2/INFO]: <Kid_Lynk> test
+[01:56:32] [Server thread/INFO]: Kid_Lynk issued server command: //pos2
+[01:56:44] [Server thread/INFO]: Kid_Lynk issued server command: //stack
+[01:57:17] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[02:07:09] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[02:07:09] [Server thread/INFO]: Kid_Lynk left the game
+[03:13:13] [User Authenticator #7/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[03:13:13] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:60023] logged in with entity id 3748 at ([Buns world]666.7187840898404, 88.71361903941938, -28.972153548438804)
+[03:14:39] [Server thread/INFO]: Kid_Lynk issued server command: /weather clear
+[03:14:39] [Server thread/INFO]: [Kid_Lynk: Set the weather to clear]
+[03:15:05] [Server thread/INFO]: Kid_Lynk issued server command: /time query daytime
+[03:15:17] [Server thread/INFO]: Kid_Lynk issued server command: /time set day
+[03:15:17] [Server thread/INFO]: [Kid_Lynk: Set the time to 1000]
+[03:17:35] [User Authenticator #8/INFO]: UUID of player LostLittleBun is 2de2b0a2-f873-4102-b522-fd7207381d49
+[03:17:35] [Server thread/INFO]: LostLittleBun[/35.138.203.6:51187] logged in with entity id 3874 at ([Buns world]676.9152433157537, 62.9375, -9.547403215181934)
+[03:17:49] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> hewwwwoooooooooooooooooooooooooooooooo
+[03:18:11] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> come out, no cheating :D
+[03:18:11] [Netty Epoll Server IO #2/INFO]: <LostLittleBun> cute sign uwu
+[03:19:44] [Server thread/INFO]: Kid_Lynk issued server command: /weather clear
+[03:19:44] [Server thread/INFO]: [Kid_Lynk: Set the weather to clear]
+[03:20:31] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> chickens :V
+[03:21:30] [Netty Epoll Server IO #2/INFO]: <LostLittleBun> this lag has me all turned arounddddd
+[03:21:40] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> haha, extra difficulty
+[03:21:44] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> :D :D :D
+[03:21:58] [Netty Epoll Server IO #2/INFO]: <LostLittleBun> smartest bun!!!
+[03:22:02] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> so smart
+[03:22:24] [Netty Epoll Server IO #2/INFO]: <LostLittleBun> nooooooo
+[03:23:12] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> so fast
+[03:23:15] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> :(
+[03:23:34] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> just use a chicken spawn egg xD
+[03:24:13] [Netty Epoll Server IO #2/INFO]: <LostLittleBun> THEheCK
+[03:24:24] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> u spawn that boy?
+[03:24:40] [Netty Epoll Server IO #2/INFO]: <LostLittleBun> WHAt is he
+[03:24:53] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> he a emo skeleton
+[03:25:00] [Netty Epoll Server IO #2/INFO]: <LostLittleBun> i c
+[03:25:03] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> u like my goal post
+[03:25:15] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> HECK
+[03:25:22] [Netty Epoll Server IO #2/INFO]: <LostLittleBun> beez
+[03:25:29] [Server thread/INFO]: Kid_Lynk issued server command: /butcher
+[03:25:35] [Server thread/INFO]: Kid_Lynk issued server command: /butcher 25
+[03:26:02] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> poor guy
+[03:26:11] [Server thread/INFO]: Kid_Lynk has made the advancement [Tactical Fishing]
+[03:26:39] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> sounds like good sex
+[03:28:01] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> bun
+[03:28:07] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> we have to have an important talk
+[03:28:15] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> it's about...
+[03:28:30] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> u get it
+[03:28:39] [Netty Epoll Server IO #2/INFO]: <LostLittleBun> i h8 u
+[03:29:21] [Server thread/INFO]: Kid_Lynk issued server command: //hsphere glass 10
+[03:29:55] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> u make all the bees mad
+[03:29:58] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> when u hit 1
+[03:30:06] [Netty Epoll Server IO #2/INFO]: <LostLittleBun> i see that
+[03:30:07] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> then they sting u
+[03:30:10] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> and they die ;(
+[03:30:21] [Server thread/INFO]: Kid_Lynk issued server command: /gamemode survival
+[03:30:21] [Server thread/INFO]: [Kid_Lynk: Set own game mode to Survival Mode]
+[03:30:29] [Server thread/INFO]: Kid_Lynk issued server command: /gamemode creative
+[03:30:30] [Server thread/INFO]: [Kid_Lynk: Set own game mode to Creative Mode]
+[03:31:11] [Server thread/INFO]: Kid_Lynk issued server command: /gamemode survival
+[03:31:11] [Server thread/INFO]: [Kid_Lynk: Set own game mode to Survival Mode]
+[03:31:19] [Server thread/INFO]: Kid_Lynk issued server command: /gamemode creative
+[03:31:19] [Server thread/INFO]: [Kid_Lynk: Set own game mode to Creative Mode]
+[03:31:45] [Server thread/INFO]: Kid_Lynk issued server command: //hsphere lava 3
+[03:31:59] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> this is reality
+[03:31:59] [Netty Epoll Server IO #2/INFO]: <LostLittleBun> NOOOOOOOOO
+[03:32:04] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> get used to it
+[03:32:08] [Netty Epoll Server IO #2/INFO]: <LostLittleBun> WHYYYY
+[03:32:09] [Server thread/INFO]: Kid_Lynk issued server command: //hsphere lava 3
+[03:32:22] [Server thread/INFO]: Kid_Lynk issued server command: //undo 4
+[03:32:51] [Netty Epoll Server IO #2/INFO]: <LostLittleBun> BEE FREE BABIES
+[03:33:21] [Server thread/INFO]: LostLittleBun has made the advancement [Hot Stuff]
+[03:33:59] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> this lightning is gonna burn down our maze
+[03:34:02] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> i can feel it
+[03:34:14] [Netty Epoll Server IO #2/INFO]: <LostLittleBun> :C
+[03:34:39] [Server thread/INFO]: LostLittleBun issued server command: /weather clear
+[03:34:39] [Server thread/INFO]: [LostLittleBun: Set the weather to clear]
+[03:35:03] [Netty Epoll Server IO #2/INFO]: <LostLittleBun> whats this gonna beee
+[03:35:07] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> nothing
+[03:35:10] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> im gonna delete it
+[03:35:25] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> was gonna be a soccer field
+[03:35:28] [Netty Epoll Server IO #2/INFO]: <LostLittleBun> sport
+[03:35:35] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> but i wanna do a gladiator stadium or something
+[03:35:40] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> which will be much bigger
+[03:35:45] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> i will go clear much more land
+[03:35:55] [Server thread/INFO]: Kid_Lynk issued server command: //pos2
+[03:36:01] [Netty Epoll Server IO #2/INFO]: <LostLittleBun> i will go to slep!
+[03:36:06] [Server thread/INFO]: Kid_Lynk issued server command: //set air
+[03:36:11] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> me 2
+[03:36:17] [Netty Epoll Server IO #2/INFO]: <LostLittleBun> uwu
+[03:36:20] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> good night bun UwU
+[03:36:28] [Netty Epoll Server IO #2/INFO]: <LostLittleBun> nite weenie
+[03:36:31] [Server thread/INFO]: Kid_Lynk issued server command: //set grass_block
+[03:36:31] [Server thread/INFO]: LostLittleBun lost connection: Disconnected
+[03:36:31] [Server thread/INFO]: LostLittleBun left the game
+[03:37:09] [Server thread/INFO]: Kid_Lynk issued server command: //set air
+[03:37:17] [Server thread/INFO]: Kid_Lynk issued server command: //pos2
+[03:37:20] [Server thread/INFO]: Kid_Lynk issued server command: //set air
+[03:37:40] [Server thread/INFO]: Kid_Lynk issued server command: //pos2
+[03:37:45] [Server thread/INFO]: Kid_Lynk issued server command: //set grass_block
+[03:38:28] [Server thread/INFO]: Kid_Lynk issued server command: //set grass_block
+[03:39:28] [Server thread/INFO]: Kid_Lynk issued server command: //pos2
+[03:39:34] [Server thread/INFO]: Kid_Lynk issued server command: //set air
+[03:39:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7808ms or 156 ticks behind
+[03:40:02] [Server thread/INFO]: Kid_Lynk issued server command: //pos2
+[03:40:06] [Server thread/INFO]: Kid_Lynk issued server command: //set minecraft:grass_block
+[03:42:44] [Server thread/INFO]: Kid_Lynk issued server command: //pos2
+[03:42:47] [Server thread/INFO]: Kid_Lynk issued server command: //set air
+[03:43:04] [Server thread/INFO]: Kid_Lynk issued server command: //pos2
+[03:43:09] [Server thread/INFO]: Kid_Lynk issued server command: //set minecraft:grass_block
+[03:43:41] [Server thread/INFO]: Kid_Lynk issued server command: //set air
+[03:43:57] [Server thread/INFO]: Villager EntityVillager['Villager'/3776, l='ServerLevel[Buns world]', x=641.51, y=74.00, z=115.46] was struck by lightning EntityLightning['Lightning Bolt'/4367, l='ServerLevel[Buns world]', x=641.50, y=74.00, z=115.50].
+[03:44:00] [Server thread/INFO]: Kid_Lynk issued server command: //set minecraft:grass_block
+[03:45:06] [Server thread/INFO]: Kid_Lynk issued server command: /weather clear
+[03:45:06] [Server thread/INFO]: [Kid_Lynk: Set the weather to clear]
+[03:47:46] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[03:47:46] [Server thread/INFO]: Kid_Lynk left the game
+[18:25:32] [User Authenticator #9/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[18:25:32] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:55106] logged in with entity id 4940 at ([Buns world]674.5594653749498, 69.19630023291354, -22.19401358806179)
+[18:26:07] [Server thread/INFO]: Kid_Lynk issued server command: //hsphere
+[18:27:50] [Server thread/INFO]: Kid_Lynk issued server command: //hsphere minecraft:stone_bricks 30 yes
+[18:27:53] [Server thread/INFO]: Kid_Lynk issued server command: //hsphere minecraft:stone_bricks 30
+[18:30:05] [Server thread/INFO]: Kid_Lynk issued server command: //brush sphere air
+[18:30:12] [Server thread/INFO]: Kid_Lynk issued server command: //undo 5
+[18:30:15] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[18:31:11] [Server thread/INFO]: Kid_Lynk issued server command: //pos2 air
+[18:31:17] [Server thread/INFO]: Kid_Lynk issued server command: //pos2
+[18:31:20] [Server thread/INFO]: Kid_Lynk issued server command: //fill air
+[18:31:24] [Server thread/INFO]: Kid_Lynk issued server command: //set air
+[18:32:56] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[18:32:59] [Server thread/INFO]: Kid_Lynk issued server command: //redo
+[18:33:33] [Server thread/INFO]: Kid_Lynk issued server command: //pos2
+[18:33:39] [Server thread/INFO]: Kid_Lynk issued server command: //set minecraft:glass
+[18:34:22] [Server thread/INFO]: Kid_Lynk issued server command: //pos1
+[18:34:27] [Server thread/INFO]: Kid_Lynk issued server command: //pos2
+[18:34:34] [Server thread/INFO]: Kid_Lynk issued server command: //set minecraft:glowstone
+[18:35:09] [Server thread/INFO]: Kid_Lynk issued server command: //stack \
+[18:35:16] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 10 up
+[18:35:22] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 15 up
+[18:36:19] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 10 up
+[18:36:53] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 25 forward
+[18:36:56] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[18:36:59] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 25 forward
+[18:37:08] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 30 forward
+[18:37:24] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 30 forward
+[18:37:28] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 30 forward
+[18:37:31] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[18:37:34] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 30 forward
+[18:38:49] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 15 up
+[18:38:53] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[18:38:59] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 15 up
+[18:39:05] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 15 up
+[18:39:11] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[18:39:16] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 10 up
+[18:42:27] [Server thread/INFO]: Kid_Lynk issued server command: //fill
+[18:42:31] [Server thread/INFO]: Kid_Lynk issued server command: //set
+[18:42:44] [Server thread/INFO]: Kid_Lynk issued server command: //wat
+[18:58:03] [Server thread/INFO]: Kid_Lynk issued server command: //stack
+[18:58:08] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[18:58:20] [Server thread/INFO]: Kid_Lynk issued server command: //stack back 50
+[18:58:28] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 50 back
+[18:58:37] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[18:58:49] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 40 back
+[18:59:10] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[18:59:17] [Server thread/INFO]: Kid_Lynk issued server command: //stack -a 40 back
+[19:02:26] [Server thread/INFO]: Kid_Lynk issued server command: //wand
+[19:02:39] [Server thread/INFO]: Kid_Lynk issued server command: //wand -m
+[19:02:43] [Server thread/INFO]: Kid_Lynk issued server command: /wand -n
+[19:02:45] [Server thread/INFO]: Kid_Lynk issued server command: //wand -n
+[19:02:55] [Server thread/INFO]: Kid_Lynk issued server command: //wand
+[19:03:15] [Server thread/INFO]: Kid_Lynk issued server command: //stack 30 forward
+[19:03:24] [Server thread/INFO]: Kid_Lynk issued server command: //stack 40
+[19:04:43] [Server thread/INFO]: Kid_Lynk issued server command: //set air
+[19:09:18] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[19:09:18] [Server thread/INFO]: Kid_Lynk left the game
+[13:35:27] [User Authenticator #10/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[13:35:27] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:61103] logged in with entity id 6127 at ([Buns world]688.2994012644419, 86.4698916353721, 1.7525348591128709)
+[13:35:33] [Server thread/INFO]: Kid_Lynk issued server command: /weather clear
+[13:35:33] [Server thread/INFO]: [Kid_Lynk: Set the weather to clear]
+[13:42:37] [Server thread/INFO]: Kid_Lynk issued server command: //pos2
+[13:42:48] [Server thread/INFO]: Kid_Lynk issued server command: //stack
+[13:43:11] [Server thread/INFO]: Kid_Lynk issued server command: //stack
+[13:43:19] [Server thread/INFO]: Kid_Lynk issued server command: //stack 10
+[13:43:25] [Server thread/INFO]: Kid_Lynk issued server command: //stack 40
+[13:43:29] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[13:43:34] [Server thread/INFO]: Kid_Lynk issued server command: //stack 30
+[13:44:14] [Server thread/INFO]: Kid_Lynk issued server command: //stack 35
+[13:44:28] [Server thread/INFO]: Kid_Lynk issued server command: //stack 37
+[13:48:12] [Server thread/INFO]: Kid_Lynk issued server command: //stack 5
+[13:48:19] [Server thread/INFO]: Kid_Lynk issued server command: //stack 9
+[13:48:23] [Server thread/INFO]: Kid_Lynk issued server command: //stack 12
+[13:54:09] [Server thread/INFO]: Kid_Lynk issued server command: //stack 5
+[13:55:27] [Server thread/INFO]: Kid_Lynk issued server command: //stack 5
+[14:00:12] [Server thread/INFO]: Kid_Lynk issued server command: //set stone_bricks
+[14:00:43] [Server thread/INFO]: Kid_Lynk issued server command: //set purple_wool
+[14:00:51] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:00:53] [Server thread/INFO]: Kid_Lynk issued server command: //undo
+[14:05:04] [Server thread/INFO]: Kid_Lynk issued server command: //pos2
+[14:05:06] [Server thread/INFO]: Kid_Lynk issued server command: //set air
+[14:05:35] [Server thread/INFO]: Kid_Lynk issued server command: //pos2
+[14:05:41] [Server thread/INFO]: Kid_Lynk issued server command: //set glass
+[14:05:58] [Server thread/INFO]: Kid_Lynk issued server command: //set glass
+[14:07:20] [Server thread/INFO]: Kid_Lynk issued server command: //set water
+[14:08:03] [Server thread/INFO]: Kid_Lynk issued server command: //set minecraft:glowstone
+[14:18:58] [Server thread/INFO]: Kid_Lynk issued server command: //stack 10
+[14:19:03] [Server thread/INFO]: Kid_Lynk issued server command: //stack 30
+[14:21:11] [Server thread/INFO]: Kid_Lynk issued server command: /gamerule randomTickSpeed 0
+[14:21:11] [Server thread/INFO]: [Kid_Lynk: Gamerule randomTickSpeed is now set to: 0]
+[14:32:50] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[14:32:50] [Server thread/INFO]: Kid_Lynk left the game
+[20:23:01] [User Authenticator #11/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[20:23:01] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:58592] logged in with entity id 6911 at ([Buns world]710.4511900680228, 82.22701498626752, -80.09339354838575)
+[20:27:11] [Server thread/INFO]: Kid_Lynk lost connection: Timed out
+[20:27:11] [Server thread/INFO]: Kid_Lynk left the game
+[20:27:38] [User Authenticator #12/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[20:27:38] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:58814] logged in with entity id 8764 at ([Buns world]694.7306435890562, 69.03171896722534, -71.33365089314341)
+[20:32:44] [Server thread/INFO]: Kid_Lynk issued server command: //set minecraft:red_nether_bricks
+[20:32:57] [Server thread/INFO]: Kid_Lynk issued server command: //set minecraft:red_nether_bricks
+[20:37:56] [Server thread/INFO]: Kid_Lynk lost connection: Timed out
+[20:37:56] [Server thread/INFO]: Kid_Lynk left the game
+[15:43:49] [User Authenticator #13/INFO]: UUID of player LostLittleBun is 2de2b0a2-f873-4102-b522-fd7207381d49
+[15:43:49] [Server thread/INFO]: LostLittleBun[/35.138.203.6:52947] logged in with entity id 9779 at ([Buns world]745.7325071315089, 62.0, 12.052333138282943)
+[16:00:58] [Server thread/INFO]: LostLittleBun lost connection: Disconnected
+[16:00:58] [Server thread/INFO]: LostLittleBun left the game
+[21:27:59] [User Authenticator #14/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[21:27:59] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:51788] logged in with entity id 10259 at ([Buns world]703.5457351610191, 69.24833753836394, -86.50791016347384)
+[22:13:14] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[22:13:14] [Server thread/INFO]: Kid_Lynk left the game
+[01:59:11] [User Authenticator #15/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[01:59:12] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:56353] logged in with entity id 11228 at ([Buns world]708.6950393376702, 66.49570156847653, -77.87872589319474)
+[01:59:17] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[01:59:17] [Server thread/INFO]: Kid_Lynk left the game
+[23:25:04] [User Authenticator #16/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[23:25:04] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:61765] logged in with entity id 13958 at ([Buns world]708.6950393376702, 66.49570156847653, -77.87872589319474)
+[23:27:56] [Server thread/INFO]: Kid_Lynk issued server command: /gamerule randomTickSpeed 0
+[23:27:56] [Server thread/INFO]: [Kid_Lynk: Gamerule randomTickSpeed is now set to: 0]
+[23:28:16] [Server thread/INFO]: Kid_Lynk issued server command: /gamerule randomTickSpeed 20
+[23:28:16] [Server thread/INFO]: [Kid_Lynk: Gamerule randomTickSpeed is now set to: 20]
+[23:28:59] [Server thread/WARN]: Kid_Lynk moved too quickly! -24.549310978054613,0.004938071236225028,-15.718561738687072
+[23:29:22] [Server thread/INFO]: Kid_Lynk issued server command: /setworldspawn
+[23:29:22] [Server thread/INFO]: [Kid_Lynk: Set the world spawn point to -251, 76, -533]
+[23:29:32] [Server thread/INFO]: Kid_Lynk issued server command: /gamemode survival
+[23:29:32] [Server thread/INFO]: [Kid_Lynk: Set own game mode to Survival Mode]
+[23:30:38] [Server thread/INFO]: Kid_Lynk issued server command: /gamerule doMobSpawning true
+[23:30:38] [Server thread/INFO]: [Kid_Lynk: Gamerule doMobSpawning is now set to: true]
+[23:31:11] [Server thread/INFO]: Kid_Lynk was slain by Zombie
+[23:31:28] [Server thread/INFO]: Kid_Lynk issued server command: /
+[23:31:33] [Server thread/INFO]: Kid_Lynk issued server command: /time day
+[23:32:35] [Server thread/INFO]: Kid_Lynk issued server command: /time set day
+[23:32:35] [Server thread/INFO]: [Kid_Lynk: Set the time to 1000]
+[23:35:51] [Server thread/INFO]: Kid_Lynk issued server command: /setworldspawn
+[23:35:51] [Server thread/INFO]: [Kid_Lynk: Set the world spawn point to -486, 64, -333]
+[23:36:26] [Server thread/INFO]: Kid_Lynk drowned
+[23:37:40] [User Authenticator #17/INFO]: UUID of player LostLittleBun is 2de2b0a2-f873-4102-b522-fd7207381d49
+[23:37:40] [Server thread/INFO]: LostLittleBun[/35.138.203.6:56039] logged in with entity id 17024 at ([Buns world]712.9724290032387, 63.0, -70.82003025778334)
+[23:38:11] [Netty Epoll Server IO #1/INFO]: <LostLittleBun> hewoooo
+[23:38:18] [Server thread/INFO]: Kid_Lynk issued server command: /teleport @a @s
+[23:38:18] [Server thread/INFO]: [Kid_Lynk: Teleported 2 entities to Kid_Lynk]
+[23:38:30] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> D:
+[23:38:34] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> ow
+[23:38:48] [Server thread/INFO]: LostLittleBun issued server command: /gamemode survival
+[23:38:48] [Server thread/INFO]: [LostLittleBun: Set own game mode to Survival Mode]
+[23:39:09] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> make sure to drop any items u have :D
+[23:39:30] [Netty Epoll Server IO #1/INFO]: <LostLittleBun> i already did!
+[23:39:33] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> :D
+[23:39:43] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> there's a cave over here
+[23:39:48] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> i say we make it our home for now
+[23:40:30] [Server thread/INFO]: Kid_Lynk has made the advancement [Stone Age]
+[23:40:42] [Server thread/INFO]: Kid_Lynk has made the advancement [Getting an Upgrade]
+[23:40:56] [Server thread/INFO]: LostLittleBun has made the advancement [Getting an Upgrade]
+[23:41:57] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> smol cave
+[23:42:16] [Server thread/INFO]: LostLittleBun has made the advancement [Stone Age]
+[23:43:39] [Netty Epoll Server IO #1/INFO]: <LostLittleBun> brb one sec
+[23:43:42] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> np np
+[23:45:30] [Netty Epoll Server IO #1/INFO]: <LostLittleBun> im backkk
+[23:45:36] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> welcome back bun UwU
+[23:45:42] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> im digging deep
+[23:46:40] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> is that sheep naturally pink
+[23:46:55] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> DONT KILL D:
+[23:47:00] [Netty Epoll Server IO #1/INFO]: <LostLittleBun> o.o
+[23:47:01] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> he's now our baby
+[23:48:18] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> there's a cave :D
+[23:48:25] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> sry
+[23:48:56] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> dig around, we must find the cave
+[23:49:07] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> found it!
+[23:52:20] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> im gonna get us some food
+[23:52:26] [Netty Epoll Server IO #1/INFO]: <LostLittleBun> thankie
+[23:54:01] [Server thread/INFO]: Kid_Lynk has made the advancement [Acquire Hardware]
+[23:56:03] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> i've got sad news
+[23:56:13] [Netty Epoll Server IO #1/INFO]: <LostLittleBun> :o
+[23:56:23] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> a wolf got our pink sheep...
+[23:56:27] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> but good news
+[23:56:34] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> we have a fox hunting fish outside our base
+[23:56:55] [Netty Epoll Server IO #1/INFO]: <LostLittleBun> im ON MY WAY
+[23:58:33] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> how much iron did u find
+[23:58:38] [Netty Epoll Server IO #1/INFO]: <LostLittleBun> 8
+[23:58:42] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> ! nice
+[23:58:46] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> i need to make a bucket
+[23:59:05] [Netty Epoll Server IO #1/INFO]: <LostLittleBun> can i kill this sheep?
+[23:59:10] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> yis
+[23:59:20] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> i have wool for 2 beds
+[00:01:33] [Netty Epoll Server IO #3/INFO]: <Kid_Lynk> im gonna go make a nether portal :o
+[00:02:40] [Server thread/INFO]: Kid_Lynk has made the advancement [Hot Stuff]
+[00:03:06] [Server thread/INFO]: LostLittleBun has made the advancement [Sweet Dreams]
+[00:03:42] [Server thread/INFO]: Kid_Lynk has made the advancement [Sweet Dreams]
+[00:12:00] [Server thread/INFO]: Kid_Lynk has made the advancement [Isn't It Iron Pick]
+[00:12:21] [Server thread/INFO]: LostLittleBun has made the advancement [Isn't It Iron Pick]
+[00:13:25] [Server thread/INFO]: Kid_Lynk has made the advancement [We Need to Go Deeper]
+[00:17:45] [Server thread/INFO]: LostLittleBun has made the advancement [Acquire Hardware]
+[00:27:12] [Server thread/INFO]: Kid_Lynk has made the advancement [Not Today, Thank You]
+[00:31:13] [Server thread/INFO]: Kid_Lynk has made the advancement [Ice Bucket Challenge]
+[00:56:10] [Server thread/INFO]: LostLittleBun has made the advancement [A Seedy Place]
+[00:56:52] [Server thread/INFO]: Kid_Lynk has made the advancement [Suit Up]
+[00:57:19] [Server thread/INFO]: LostLittleBun has made the advancement [Suit Up]
+[01:00:41] [Server thread/INFO]: LostLittleBun lost connection: Disconnected
+[01:00:41] [Server thread/INFO]: LostLittleBun left the game
+[01:12:46] [Server thread/INFO]: Kid_Lynk has made the advancement [A Terrible Fortress]
+[01:14:44] [Server thread/INFO]: Kid_Lynk has made the advancement [Into Fire]
+[01:21:42] [Server thread/INFO]: Kid_Lynk has made the advancement [Diamonds!]
+[01:52:06] [Server thread/INFO]: Kid_Lynk has made the advancement [Local Brewery]
+[01:58:54] [Server thread/INFO]: Kid_Lynk has made the advancement [A Seedy Place]
+[02:23:09] [Server thread/INFO]: Kid_Lynk issued server command: /gamerule randomTickSpeed 3
+[02:23:09] [Server thread/INFO]: [Kid_Lynk: Gamerule randomTickSpeed is now set to: 3]
+[02:27:56] [Server thread/INFO]: Kid_Lynk has made the advancement [The Parrots and the Bats]
+[03:17:34] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[03:17:34] [Server thread/INFO]: Kid_Lynk left the game
+[12:20:00] [User Authenticator #18/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[12:20:01] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:52563] logged in with entity id 63893 at ([Buns world]-541.6124000874463, 75.0, -187.79249120622362)
+[12:45:47] [Server thread/INFO]: Kid_Lynk has made the advancement [Best Friends Forever]
+[13:10:42] [Server thread/INFO]: Kid_Lynk has made the advancement [Who is Cutting Onions?]
+[14:18:18] [Server thread/INFO]: Villager EntityVillager['Villager'/87124, l='ServerLevel[Buns world]', x=-2231.15, y=65.02, z=2057.86] died, message: 'Villager was slain by Zombie'
+[14:20:14] [Server thread/INFO]: Villager EntityVillager['Weaponsmith'/87133, l='ServerLevel[Buns world]', x=-2242.71, y=62.64, z=1967.61] died, message: 'Weaponsmith was slain by Drowned'
+[14:22:15] [Server thread/INFO]: Villager EntityVillager['Weaponsmith'/87156, l='ServerLevel[Buns world]', x=-2235.83, y=70.00, z=2032.50] died, message: 'Weaponsmith was slain by Zombie'
+[14:22:53] [Server thread/INFO]: Villager EntityVillager['Weaponsmith'/87155, l='ServerLevel[Buns world]', x=-2227.57, y=70.00, z=2028.05] died, message: 'Weaponsmith was slain by Zombie'
+[14:23:33] [Server thread/INFO]: Villager EntityVillager['Villager'/87125, l='ServerLevel[Buns world]', x=-2267.13, y=63.00, z=2031.85] died, message: 'Villager was slain by Zombie'
+[14:24:13] [Server thread/INFO]: Villager EntityVillager['Villager'/87126, l='ServerLevel[Buns world]', x=-2166.52, y=64.42, z=2073.85] died, message: 'Villager was slain by Zombie'
+[15:00:49] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[15:00:49] [Server thread/INFO]: Kid_Lynk left the game
+[15:00:56] [User Authenticator #19/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[15:00:56] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:60624] logged in with entity id 99749 at ([Buns world]-541.8197093547152, 75.0, -177.50740962483147)
+[15:01:06] [Server thread/INFO]: Kid_Lynk has made the advancement [Enchanter]
+[16:38:03] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[16:38:03] [Server thread/INFO]: Kid_Lynk left the game
+[16:40:48] [User Authenticator #20/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[16:40:48] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:50910] logged in with entity id 114497 at ([Buns world_nether]-78.51088250023808, 59.0, -30.04874794567556)
+[17:56:02] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[17:56:02] [Server thread/INFO]: Kid_Lynk left the game
+[19:11:49] [User Authenticator #21/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[19:11:50] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:55177] logged in with entity id 124759 at ([Buns world]-541.6434308454404, 75.0, -189.72042769630895)
+[20:11:30] [Server thread/WARN]: Horse (vehicle of Kid_Lynk) moved wrongly! 0.27902198000606404
+[20:11:30] [Server thread/WARN]: Horse (vehicle of Kid_Lynk) moved wrongly! 0.5716922046897253
+[20:13:12] [Server thread/INFO]: Villager EntityVillager['Nitwit'/137762, l='ServerLevel[Buns world]', x=-722.63, y=67.56, z=-1236.28] died, message: 'Nitwit suffocated in a wall'
+[20:14:00] [Server thread/WARN]: Kid_Lynk moved too quickly! 9.862476250491227,-0.9412031594607981,-2.7156297344124596
+[20:19:16] [Server thread/INFO]: Villager EntityVillager['Villager'/137826, l='ServerLevel[Buns world]', x=-761.22, y=68.00, z=-1252.39] died, message: 'Villager was slain by Zombie'
+[20:29:00] [Server thread/WARN]: Horse (vehicle of Kid_Lynk) moved too quickly! 1.6852177789206735,-1.0,-20.32637624358631
+[20:29:00] [Server thread/WARN]: Horse (vehicle of Kid_Lynk) moved too quickly! 1.7829417895350161,-1.0,-20.7490596846676
+[20:29:00] [Server thread/WARN]: Horse (vehicle of Kid_Lynk) moved too quickly! 1.8819048317178613,-1.0,-21.17150825294607
+[20:29:00] [Server thread/WARN]: Horse (vehicle of Kid_Lynk) moved too quickly! 1.981530854989387,-1.0,-21.59383114547086
+[20:29:00] [Server thread/WARN]: Horse (vehicle of Kid_Lynk) moved too quickly! 2.0815116262231186,-1.0,-22.016086791405314
+[20:29:00] [Server thread/WARN]: Horse (vehicle of Kid_Lynk) moved too quickly! 2.18168221601843,-1.0,-22.438306455029988
+[20:29:00] [Server thread/WARN]: Horse (vehicle of Kid_Lynk) moved too quickly! 2.2819543739415167,-1.0,-22.86050686523845
+[20:29:00] [Server thread/WARN]: Horse (vehicle of Kid_Lynk) moved too quickly! 2.382280878944698,-1.0,-23.282696973327347
+[20:29:00] [Server thread/WARN]: Horse (vehicle of Kid_Lynk) moved too quickly! 2.4826364639868643,-1.0,-23.704881568957717
+[20:40:54] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[20:40:54] [Server thread/INFO]: Kid_Lynk left the game
+[20:43:15] [User Authenticator #22/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[20:43:15] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:57860] logged in with entity id 145133 at ([Buns world]-727.94720529956, 67.0, -1297.131659945899)
+[21:20:05] [Server thread/INFO]: Kid_Lynk has made the advancement [Cover Me With Diamonds]
+[21:23:36] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[21:23:36] [Server thread/INFO]: Kid_Lynk left the game
+[21:24:04] [User Authenticator #23/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[21:24:04] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:58974] logged in with entity id 154746 at ([Buns world]-539.5599393487316, 67.0, -236.6159819422129)
+[21:27:29] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[21:27:29] [Server thread/INFO]: Kid_Lynk left the game
+[21:27:36] [User Authenticator #24/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[21:27:36] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:59102] logged in with entity id 155544 at ([Buns world]-548.6336765323728, 66.0, -247.30000001192093)
+[21:56:17] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[21:56:17] [Server thread/INFO]: Kid_Lynk left the game
+[12:53:12] [User Authenticator #25/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[12:53:12] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:62117] logged in with entity id 159224 at ([Buns world]-537.5990130996202, 8.0, -112.62287012510185)
+[13:04:51] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[13:04:51] [Server thread/INFO]: Kid_Lynk left the game
+[13:04:58] [User Authenticator #26/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[13:04:58] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:62387] logged in with entity id 161922 at ([Buns world]-507.0845336402458, 62.0, -257.4991041477466)
+[13:11:42] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> good night
+[13:27:35] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[13:27:35] [Server thread/INFO]: Kid_Lynk left the game
+[13:39:20] [User Authenticator #27/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[13:39:20] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:63500] logged in with entity id 167365 at ([Buns world]-656.213337828185, 64.0, -418.28839095507965)
+[13:45:08] [Server thread/INFO]: Kid_Lynk has made the advancement [What a Deal!]
+[14:52:23] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[14:52:23] [Server thread/INFO]: Kid_Lynk left the game
+[14:55:58] [User Authenticator #28/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[14:55:58] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:49949] logged in with entity id 182154 at ([Buns world]-456.30000001192093, 11.0, 137.2488041750278)
+[15:16:00] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[15:16:00] [Server thread/INFO]: Kid_Lynk left the game
+[18:14:10] [User Authenticator #29/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[18:14:10] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:57618] logged in with entity id 186233 at ([Buns world]-451.1754242907227, 10.0, 161.34630184044843)
+[18:19:08] [Server thread/INFO]: Villager EntityVillager['Villager'/186370, l='ServerLevel[Buns world]', x=-515.30, y=69.00, z=276.23] died, message: 'Villager was slain by Zombie'
+[18:19:16] [Server thread/INFO]: Villager EntityVillager['Weaponsmith'/186372, l='ServerLevel[Buns world]', x=-515.30, y=69.00, z=274.30] died, message: 'Weaponsmith was slain by Zombie'
+[19:19:56] [Server thread/INFO]: Villager EntityVillager['Weaponsmith'/186373, l='ServerLevel[Buns world]', x=-515.70, y=69.00, z=274.30] died, message: 'Weaponsmith was slain by Zombie'
+[19:20:03] [Server thread/INFO]: Villager EntityVillager['Villager'/186371, l='ServerLevel[Buns world]', x=-515.70, y=69.00, z=277.07] died, message: 'Villager was slain by Zombie'
+[22:44:56] [Server thread/INFO]: Kid_Lynk has made the advancement [Take Aim]
+[00:46:56] [Server thread/WARN]: Horse (vehicle of Kid_Lynk) moved wrongly! 0.31750094675066975
+[00:46:56] [Server thread/WARN]: Horse (vehicle of Kid_Lynk) moved wrongly! 0.7015974748571807
+[02:23:45] [Server thread/WARN]: Horse (vehicle of Kid_Lynk) moved wrongly! 0.2601659251295132
+[02:23:45] [Server thread/WARN]: Horse (vehicle of Kid_Lynk) moved wrongly! 0.6498373904390746
+[02:42:28] [User Authenticator #30/INFO]: UUID of player LostLittleBun is 2de2b0a2-f873-4102-b522-fd7207381d49
+[02:42:28] [Server thread/INFO]: LostLittleBun[/35.138.203.6:58708] logged in with entity id 274585 at ([Buns world]-539.9450279295547, 75.0, -188.3413853517558)
+[02:42:33] [Netty Epoll Server IO #2/INFO]: <Kid_Lynk> my bun!
+[02:44:39] [Netty Epoll Server IO #0/INFO]: <LostLittleBun> hewwwwooo
+[02:44:42] [Netty Epoll Server IO #2/INFO]: <Kid_Lynk> disc?
+[02:44:54] [Netty Epoll Server IO #0/INFO]: <LostLittleBun> yis one sec
+[02:45:15] [Netty Epoll Server IO #0/INFO]: <LostLittleBun> i dont know how to make minecraft not full screennnnn
+[02:45:36] [Netty Epoll Server IO #2/INFO]: <Kid_Lynk> option->video-> left side, half way down Fullscreen:off
+[02:46:21] [Netty Epoll Server IO #2/INFO]: <Kid_Lynk> you could always hit the windows button to minimize it, and start the call, and go back to
+[02:46:24] [Netty Epoll Server IO #2/INFO]: <Kid_Lynk> full screen
+[02:48:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[02:49:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[02:56:40] [Server thread/INFO]: LostLittleBun lost connection: Disconnected
+[02:56:40] [Server thread/INFO]: LostLittleBun left the game
+[02:58:50] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[02:58:50] [Server thread/INFO]: Kid_Lynk left the game
+[02:59:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@77ea25dc[id=<null>,name=Kid_Lynk,properties={},legacy=false] (/47.197.132.159:52595) lost connection: Disconnected
+[02:59:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@7fcd0754[id=<null>,name=Kid_Lynk,properties={},legacy=false] (/47.197.132.159:52609) lost connection: Disconnected
+[03:00:38] [User Authenticator #31/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[03:00:38] [User Authenticator #32/INFO]: UUID of player LostLittleBun is 2de2b0a2-f873-4102-b522-fd7207381d49
+[03:00:38] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:52916] logged in with entity id 277761 at ([Buns world]-534.5646171876401, 67.0, -225.2875122892727)
+[03:00:38] [Server thread/INFO]: LostLittleBun[/35.138.203.6:58822] logged in with entity id 277765 at ([Buns world]-545.8959070656881, 67.0, -228.9269420088806)
+[03:07:48] [Server thread/WARN]: Horse (vehicle of Kid_Lynk) moved wrongly! 0.27516908483892166
+[03:07:49] [Server thread/WARN]: Horse (vehicle of Kid_Lynk) moved wrongly! 0.3094484965786535
+[03:07:49] [Server thread/WARN]: Horse (vehicle of Kid_Lynk) moved wrongly! 0.34405466969155896
+[03:07:49] [Server thread/WARN]: Horse (vehicle of Kid_Lynk) moved wrongly! 0.2776506154164906
+[03:21:18] [Server thread/WARN]: Boat (vehicle of LostLittleBun) moved wrongly! 0.2894946360463564
+[03:21:18] [Server thread/WARN]: Boat (vehicle of LostLittleBun) moved wrongly! 0.2658574199492705
+[03:21:30] [Server thread/WARN]: Boat (vehicle of Kid_Lynk) moved wrongly! 0.33430811471033905
+[03:21:31] [Server thread/WARN]: Boat (vehicle of Kid_Lynk) moved wrongly! 0.40084289388096295
+[03:21:31] [Server thread/WARN]: Boat (vehicle of Kid_Lynk) moved wrongly! 0.4524125198024649
+[03:21:31] [Server thread/WARN]: Boat (vehicle of Kid_Lynk) moved wrongly! 0.2642513680848424
+[03:21:31] [Server thread/WARN]: Boat (vehicle of Kid_Lynk) moved wrongly! 0.4617311129072732
+[03:25:32] [Server thread/INFO]: Kid_Lynk has made the advancement [Eye Spy]
+[03:25:37] [Server thread/INFO]: LostLittleBun has made the advancement [Eye Spy]
+[03:45:48] [Server thread/INFO]: LostLittleBun was burnt to a crisp whilst fighting Kid_Lynk
+[03:47:16] [Server thread/INFO]: Kid_Lynk issued server command: /teleport @a @s
+[03:47:16] [Server thread/INFO]: [Kid_Lynk: Teleported 2 entities to Kid_Lynk]
+[03:47:40] [Netty Epoll Server IO #0/INFO]: <Kid_Lynk> pvp=false
+[03:47:44] [Server thread/INFO]: Kid_Lynk issued server command: /pvp=false
+[03:48:38] [Server thread/INFO]: Kid_Lynk issued server command: /scoreboard players add @a kek
+[03:49:01] [Server thread/INFO]: Kid_Lynk issued server command: /team list
+[03:49:19] [Server thread/INFO]: Kid_Lynk issued server command: /team add lol LostLittleBun
+[03:49:37] [Server thread/INFO]: Kid_Lynk issued server command: /team add lol
+[03:49:37] [Server thread/INFO]: [Kid_Lynk: Created team [lol]]
+[03:49:43] [Server thread/INFO]: Kid_Lynk issued server command: /team join lol
+[03:49:43] [Server thread/INFO]: [Kid_Lynk: Added Kid_Lynk to team [lol]]
+[03:49:51] [Server thread/INFO]: Kid_Lynk issued server command: /team add lostlittlebun lol
+[03:49:57] [Server thread/INFO]: Kid_Lynk issued server command: /team add LostLittleBun
+[03:49:57] [Server thread/INFO]: [Kid_Lynk: Created team [LostLittleBun]]
+[03:50:32] [Server thread/INFO]: LostLittleBun issued server command: /team join lol
+[03:50:32] [Server thread/INFO]: [LostLittleBun: Added LostLittleBun to team [lol]]
+[03:50:47] [Server thread/INFO]: Kid_Lynk issued server command: /team modify friendlyFire false
+[03:50:53] [Server thread/INFO]: Kid_Lynk issued server command: /team modify friendlyFirefalse
+[03:51:03] [Server thread/INFO]: Kid_Lynk issued server command: /team modify friendlyFire friendlyFire false
+[03:51:10] [Server thread/INFO]: Kid_Lynk issued server command: /team modify lol friendlyFire false
+[03:51:10] [Server thread/INFO]: [Kid_Lynk: Disabled friendly fire for team [lol]]
+[04:01:12] [Server thread/INFO]: LostLittleBun lost connection: Disconnected
+[04:01:12] [Server thread/INFO]: LostLittleBun left the game
+[04:01:18] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[04:01:18] [Server thread/INFO]: Kid_Lynk left the game
+[12:32:08] [User Authenticator #33/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[12:32:08] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:64003] logged in with entity id 288940 at ([Buns world]-2257.3593912362826, 40.0, 99.9600327047003)
+[13:18:45] [Server thread/INFO]: Villager EntityVillager['Villager'/300449, l='ServerLevel[Buns world]', x=-747.75, y=67.00, z=-1265.14] died, message: 'Villager was slain by Zombie'
+[13:25:19] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[13:25:19] [Server thread/INFO]: Kid_Lynk left the game
+[13:26:32] [User Authenticator #34/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[13:26:32] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:64888] logged in with entity id 301817 at ([Buns world]-720.9499999880791, 69.125, -1213.0818252659817)
+[14:17:43] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[14:17:43] [Server thread/INFO]: Kid_Lynk left the game
+[15:24:02] [User Authenticator #35/INFO]: UUID of player LostLittleBun is 2de2b0a2-f873-4102-b522-fd7207381d49
+[15:24:02] [Server thread/INFO]: LostLittleBun[/35.138.203.6:57789] logged in with entity id 311041 at ([Buns world]-2256.649178035792, 40.0, 100.02805509513566)
+[15:30:17] [User Authenticator #36/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[15:30:17] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:55071] logged in with entity id 311911 at ([Buns world]-2254.4386298601694, 40.0, 97.46741816848784)
+[15:31:33] [Server thread/WARN]: Boat (vehicle of Kid_Lynk) moved wrongly! 0.40838702890505374
+[15:31:33] [Server thread/WARN]: Boat (vehicle of Kid_Lynk) moved wrongly! 0.2571521884701724
+[15:31:33] [Server thread/WARN]: Boat (vehicle of Kid_Lynk) moved wrongly! 0.5698230179195889
+[15:33:32] [Server thread/INFO]: LostLittleBun has made the advancement [We Need to Go Deeper]
+[15:43:28] [Server thread/INFO]: LostLittleBun has made the advancement [Diamonds!]
+[15:43:59] [Server thread/INFO]: LostLittleBun has made the advancement [Cover Me With Diamonds]
+[15:45:57] [Server thread/INFO]: Kid_Lynk has made the advancement [The End?]
+[15:45:57] [Server thread/INFO]: LostLittleBun has made the advancement [The End?]
+[15:45:58] [Server thread/WARN]: LostLittleBun moved too quickly! 2352.599075734509,6.1875,-89.3798443606484
+[15:45:58] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[15:45:58] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[15:46:57] [Server thread/INFO]: LostLittleBun has made the advancement [Take Aim]
+[15:50:25] [Server thread/INFO]: Kid_Lynk has reached the goal [You Need a Mint]
+[15:52:32] [Server thread/INFO]: Kid_Lynk was killed by Ender Dragon using magic
+[15:55:56] [Server thread/INFO]: Kid_Lynk has made the advancement [Free the End]
+[15:56:41] [Server thread/INFO]: Kid_Lynk has reached the goal [The Next Generation]
+[15:57:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5089ms or 101 ticks behind
+[15:57:13] [Server thread/WARN]: Kid_Lynk moved too quickly! 2351.4280714451206,6.249470278968893,-88.26179282654209
+[15:57:13] [Server thread/WARN]: LostLittleBun moved too quickly! 2352.149239768145,5.945106652967922,-88.6450731021045
+[15:58:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 43654ms or 873 ticks behind
+[15:59:13] [Server thread/INFO]: Kid_Lynk has made the advancement [Remote Getaway]
+[15:59:17] [Server thread/INFO]: LostLittleBun has made the advancement [Remote Getaway]
+[15:59:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 37285ms or 745 ticks behind
+[16:00:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 46955ms or 939 ticks behind
+[16:01:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 39711ms or 794 ticks behind
+[16:02:06] [Server thread/WARN]: Kid_Lynk moved too quickly! 12.314313038858472,-0.14168517272452874,6.092254521324207
+[16:03:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 54078ms or 1081 ticks behind
+[16:04:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31194ms or 623 ticks behind
+[16:05:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 40328ms or 806 ticks behind
+[16:06:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 44662ms or 893 ticks behind
+[16:07:41] [Server thread/INFO]: Kid_Lynk has made the advancement [The City at the End of the Game]
+[16:07:43] [Server thread/INFO]: LostLittleBun has made the advancement [The City at the End of the Game]
+[16:08:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 52685ms or 1053 ticks behind
+[16:09:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 54044ms or 1080 ticks behind
+[16:10:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 45491ms or 909 ticks behind
+[16:11:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25817ms or 516 ticks behind
+[16:12:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33804ms or 676 ticks behind
+[16:13:28] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[16:13:28] [Server thread/INFO]: Kid_Lynk left the game
+[16:14:12] [User Authenticator #37/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[16:14:14] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:55953] logged in with entity id 317110 at ([Buns world_the_end]1040.8013340506948, 121.0, 379.9702835492622)
+[16:14:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 56729ms or 1134 ticks behind
+[16:14:26] [Server thread/WARN]: Kid_Lynk moved wrongly!
+[16:15:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 48772ms or 975 ticks behind
+[16:16:12] [Server thread/INFO]: Kid_Lynk issued server command: /gamemode creative
+[16:16:12] [Server thread/INFO]: [Kid_Lynk: Set own game mode to Creative Mode]
+[16:16:12] [Server thread/INFO]: Kid_Lynk issued server command: /gamemode creative
+[16:16:29] [Server thread/INFO]: Kid_Lynk fell out of the world
+[16:16:52] [Server Watchdog/FATAL]: A single server tick took 60.01 seconds (should be max 0.05)
+[16:16:52] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[16:17:42] [Server thread/INFO]: LostLittleBun has completed the challenge [Great View From Up Here]
+[16:18:23] [Server thread/INFO]: LostLittleBun fell from a high place
+[16:19:26] [Server thread/INFO]: LostLittleBun lost connection: Disconnected
+[16:19:27] [Server thread/INFO]: LostLittleBun left the game
+[16:19:31] [Server thread/INFO]: Kid_Lynk issued server command: /give Kid_Lynk minecraft:filled_map 1 0
+[16:19:49] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[16:19:50] [Server thread/INFO]: Kid_Lynk left the game
+[16:19:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ce2a8b9[id=<null>,name=LostLittleBun,properties={},legacy=false] (/35.138.203.6:57812) lost connection: Disconnected
+[16:20:50] [Server Watchdog/ERROR]: This crash report has been saved to: /root/minecraft/MC-server/./crash-reports/crash-2020-08-04_16.20.44-server.txt
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x00007f5d0fbc8000, 16384, 0) failed; error='Not enough space' (errno=12)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 16384 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /root/minecraft/MC-server/hs_err_pid9751.log
+[thread 9778 also had an error]
+*** Error, this build is outdated ***
+*** Please download a new build as per instructions from https://www.spigotmc.org/go/outdated-spigot ***
+*** Server will start in 20 seconds ***
+Loading libraries, please wait...
+[16:24:16] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[16:24:17] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[16:24:19] [Worker-Main-2/INFO]: Loaded 7 recipes
+[16:24:16] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[16:24:17] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[16:24:19] [Worker-Main-2/INFO]: Loaded 7 recipes
+[16:24:20] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[16:24:20] [Server thread/INFO]: Loading properties
+[16:24:20] [Server thread/INFO]: Default game type: CREATIVE
+[16:24:20] [Server thread/INFO]: Generating keypair
+[16:24:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:24:21] [Server thread/INFO]: Using epoll channel type
+[16:24:21] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-7560f5f (MC: 1.16.1) (Implementing API version 1.16.1-R0.1-SNAPSHOT)
+[16:24:22] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[16:24:24] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@584718f7]
+[16:24:24] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.3;5407315
+[16:24:24] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[16:24:24] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[16:24:24] [Server thread/WARN]: 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and block property-related functions.
+**
+** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
+**********************************************
+
+[16:24:25] [Server thread/WARN]: [WorldEdit] ====================================================
+[16:24:25] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[16:24:25] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[16:24:25] [Server thread/WARN]: [WorldEdit]   
+[16:24:25] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[16:24:25] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[16:24:25] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[16:24:25] [Server thread/WARN]: [WorldEdit]   
+[16:24:25] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[16:24:25] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[16:24:25] [Server thread/WARN]: [WorldEdit]   
+[16:24:25] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[16:24:25] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[16:24:25] [Server thread/WARN]: [WorldEdit]   
+[16:24:25] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[16:24:25] [Server thread/WARN]: [WorldEdit] ====================================================
+[16:24:25] [Server thread/INFO]: Preparing level "Buns world"
+[16:24:25] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[16:24:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:24:28] [Server thread/INFO]: Preparing spawn area: 0%
+[16:24:28] [Server thread/INFO]: Preparing spawn area: 0%
+[16:24:28] [Server thread/INFO]: Preparing spawn area: 0%
+[16:24:28] [Server thread/INFO]: Preparing spawn area: 0%
+[16:24:28] [Server thread/INFO]: Preparing spawn area: 0%
+[16:24:28] [Server thread/INFO]: Preparing spawn area: 0%
+[16:24:28] [Server thread/INFO]: Preparing spawn area: 0%
+[16:24:29] [Server thread/INFO]: Time elapsed: 3862 ms
+[16:24:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:24:31] [Server thread/INFO]: Preparing spawn area: 0%
+[16:24:31] [Server thread/INFO]: Preparing spawn area: 0%
+[16:24:31] [Server thread/INFO]: Preparing spawn area: 0%
+[16:24:31] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:24:31] [Worker-Main-2/INFO]: Preparing spawn area: 87%
+[16:24:32] [Worker-Main-2/INFO]: Preparing spawn area: 96%
+[16:24:32] [Worker-Main-2/INFO]: Preparing spawn area: 96%
+[16:24:33] [Worker-Main-2/INFO]: Preparing spawn area: 96%
+[16:24:33] [Worker-Main-2/INFO]: Preparing spawn area: 96%
+[16:24:34] [Worker-Main-2/INFO]: Preparing spawn area: 97%
+[16:24:34] [Server thread/INFO]: Time elapsed: 4831 ms
+[16:24:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:24:35] [Server thread/INFO]: Preparing spawn area: 0%
+[16:24:35] [Server thread/INFO]: Preparing spawn area: 0%
+[16:24:35] [Server thread/INFO]: Time elapsed: 805 ms
+[16:24:35] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.3;5407315
+[16:24:35] [Server thread/INFO]: [WorldGuard] (Buns world) TNT ignition is PERMITTED.
+[16:24:35] [Server thread/INFO]: [WorldGuard] (Buns world) Lighters are PERMITTED.
+[16:24:35] [Server thread/INFO]: [WorldGuard] (Buns world) Lava fire is PERMITTED.
+[16:24:35] [Server thread/INFO]: [WorldGuard] (Buns world) Fire spread is UNRESTRICTED.
+[16:24:35] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Buns world'
+[16:24:35] [Server thread/INFO]: [WorldGuard] (Buns world_nether) TNT ignition is PERMITTED.
+[16:24:35] [Server thread/INFO]: [WorldGuard] (Buns world_nether) Lighters are PERMITTED.
+[16:24:35] [Server thread/INFO]: [WorldGuard] (Buns world_nether) Lava fire is PERMITTED.
+[16:24:35] [Server thread/INFO]: [WorldGuard] (Buns world_nether) Fire spread is UNRESTRICTED.
+[16:24:35] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Buns world_nether'
+[16:24:35] [Server thread/INFO]: [WorldGuard] (Buns world_the_end) TNT ignition is PERMITTED.
+[16:24:35] [Server thread/INFO]: [WorldGuard] (Buns world_the_end) Lighters are PERMITTED.
+[16:24:35] [Server thread/INFO]: [WorldGuard] (Buns world_the_end) Lava fire is PERMITTED.
+[16:24:35] [Server thread/INFO]: [WorldGuard] (Buns world_the_end) Fire spread is UNRESTRICTED.
+[16:24:35] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Buns world_the_end'
+[16:24:35] [Server thread/INFO]: [WorldGuard] Loading region data...
+[16:24:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:24:36] [Server thread/INFO]: Done (11.127s)! For help, type "help"
+[16:24:39] [User Authenticator #1/INFO]: UUID of player Kid_Lynk is efaefb95-0d32-4449-b237-6741eabdbfbe
+[16:24:40] [Server thread/INFO]: Kid_Lynk[/47.197.132.159:56898] logged in with entity id 353 at ([Buns world]-2270.301232209339, 40.0, 99.46428505970547)
+[16:24:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5048ms or 100 ticks behind
+[16:25:00] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[16:25:00] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[16:25:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5696ms or 113 ticks behind
+[16:26:23] [User Authenticator #2/INFO]: UUID of player LostLittleBun is 2de2b0a2-f873-4102-b522-fd7207381d49
+[16:26:23] [Server thread/INFO]: LostLittleBun[/35.138.203.6:58446] logged in with entity id 978 at ([Buns world]-2256.185261049138, 42.0, 88.46618568011044)
+[16:26:29] [Server thread/INFO]: Kid_Lynk issued server command: /teleport @a @s
+[16:26:29] [Server thread/INFO]: [Kid_Lynk: Teleported 2 entities to Kid_Lynk]
+[16:26:31] [Server thread/INFO]: LostLittleBun fell from a high place
+[16:26:46] [Server thread/INFO]: LostLittleBun issued server command: /gamemode creative
+[16:26:46] [Server thread/INFO]: [LostLittleBun: Set own game mode to Creative Mode]
+[16:26:49] [Server thread/INFO]: Kid_Lynk issued server command: /teleport @a @s
+[16:26:49] [Server thread/INFO]: [Kid_Lynk: Teleported 2 entities to Kid_Lynk]
+[16:27:22] [Server thread/INFO]: Kid_Lynk fell out of the world
+[16:27:29] [Server thread/INFO]: Kid_Lynk issued server command: /teleport @s LostLittleBun
+[16:27:29] [Server thread/INFO]: [Kid_Lynk: Teleported Kid_Lynk to LostLittleBun]
+[16:35:42] [Server thread/INFO]: Kid_Lynk issued server command: /give Kid_Lynk minecraft:filled_map 1 0
+[16:37:31] [Server thread/INFO]: Kid_Lynk issued server command: /give @p diamond_pickaxe{Enchantments:[{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:fortune,lvl:3},{id:mending,lvl:1}]} 1
+[16:37:31] [Server thread/INFO]: [Kid_Lynk: Gave 1 [Diamond Pickaxe] to Kid_Lynk]
+[16:44:32] [Server thread/INFO]: Kid_Lynk issued server command: /give LostLittleBun diamond_pickaxe{Enchantments:[{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:fortune,lvl:3},{id:mending,lvl:1}]} 1
+[16:44:32] [Server thread/INFO]: [Kid_Lynk: Gave 1 [Diamond Pickaxe] to LostLittleBun]
+[16:45:42] [Server thread/INFO]: LostLittleBun has reached the goal [You Need a Mint]
+[16:45:42] [Server thread/INFO]: Kid_Lynk issued server command: /xp add Kid_Lynk 1000
+[16:45:42] [Server thread/INFO]: [Kid_Lynk: Gave 1000 experience points to Kid_Lynk]
+[16:45:49] [Server thread/INFO]: Kid_Lynk issued server command: /gamemode survival
+[16:45:49] [Server thread/INFO]: [Kid_Lynk: Set own game mode to Survival Mode]
+[16:45:52] [Server thread/INFO]: Kid_Lynk issued server command: /gamemode survival
+[16:45:54] [Server thread/INFO]: Kid_Lynk issued server command: /xp add Kid_Lynk 1000
+[16:45:54] [Server thread/INFO]: [Kid_Lynk: Gave 1000 experience points to Kid_Lynk]
+[16:46:00] [Server thread/INFO]: Kid_Lynk issued server command: /xp add Kid_Lynk 1000
+[16:46:00] [Server thread/INFO]: [Kid_Lynk: Gave 1000 experience points to Kid_Lynk]
+[16:46:01] [Server thread/INFO]: Kid_Lynk issued server command: /xp add Kid_Lynk 1000
+[16:46:01] [Server thread/INFO]: [Kid_Lynk: Gave 1000 experience points to Kid_Lynk]
+[16:46:02] [Server thread/INFO]: Kid_Lynk issued server command: /xp add Kid_Lynk 1000
+[16:46:02] [Server thread/INFO]: [Kid_Lynk: Gave 1000 experience points to Kid_Lynk]
+[16:46:12] [Server thread/INFO]: Kid_Lynk issued server command: /xp add LostLittleBun 1000
+[16:46:12] [Server thread/INFO]: [Kid_Lynk: Gave 1000 experience points to LostLittleBun]
+[16:46:14] [Server thread/INFO]: Kid_Lynk issued server command: /xp add LostLittleBun 1000
+[16:46:14] [Server thread/INFO]: [Kid_Lynk: Gave 1000 experience points to LostLittleBun]
+[16:46:15] [Server thread/INFO]: Kid_Lynk issued server command: /xp add LostLittleBun 1000
+[16:46:15] [Server thread/INFO]: [Kid_Lynk: Gave 1000 experience points to LostLittleBun]
+[16:46:27] [Server thread/INFO]: LostLittleBun issued server command: /gamemode survival
+[16:46:27] [Server thread/INFO]: [LostLittleBun: Set own game mode to Survival Mode]
+[16:46:35] [Server thread/INFO]: Kid_Lynk issued server command: /gamemode creative
+[16:46:35] [Server thread/INFO]: [Kid_Lynk: Set own game mode to Creative Mode]
+[16:47:19] [Server thread/INFO]: Kid_Lynk issued server command: /give @a diamond_sword{Enchantments:[{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:sweeping,lvl:3},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
+[16:47:19] [Server thread/INFO]: [Kid_Lynk: Gave 1 [Diamond Sword] to 2]
+[16:48:14] [Server thread/INFO]: Kid_Lynk issued server command: /gamemode survival
+[16:48:14] [Server thread/INFO]: [Kid_Lynk: Set own game mode to Survival Mode]
+[16:53:19] [Server thread/INFO]: Kid_Lynk has reached the goal [Sky's the Limit]
+[17:09:40] [Server thread/INFO]: Kid_Lynk issued server command: /gamemode creative
+[17:09:40] [Server thread/INFO]: [Kid_Lynk: Set own game mode to Creative Mode]
+[17:09:54] [Server thread/INFO]: Kid_Lynk issued server command: /gamemode survival
+[17:09:54] [Server thread/INFO]: [Kid_Lynk: Set own game mode to Survival Mode]
+[17:13:56] [Server thread/INFO]: Kid_Lynk issued server command: /teleport Kid_Lynk -532 65 -208
+[17:13:56] [Server thread/WARN]: Entity EntityPlayer['Kid_Lynk'/353, l='ServerLevel[Buns world_the_end]', x=-531.50, y=65.00, z=-207.50](Kid_Lynk at -531.5,65.0,-207.5) left loaded chunk area
+[17:13:56] [Server thread/INFO]: [Kid_Lynk: Teleported Kid_Lynk to -531.5, 65.0, -207.5]
+[17:14:02] [Server thread/INFO]: Kid_Lynk fell out of the world
+[17:14:45] [Server thread/INFO]: Kid_Lynk lost connection: Disconnected
+[17:14:45] [Server thread/INFO]: Kid_Lynk left the game
+[17:14:51] [Server thread/INFO]: LostLittleBun lost connection: Disconnected
+[17:14:51] [Server thread/INFO]: LostLittleBun left the game
+[22:14:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5025ms or 100 ticks behind
+[22:15:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14804ms or 296 ticks behind
+[22:18:21] [Thread-1/INFO]: Stopping server
